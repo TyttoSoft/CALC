@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/08/28 17:21:47.000.331,=C:\TyttoSoft\Unit1.pas</Transaction>
+    <Transaction>2016/09/13 21:34:52.000.693,=C:\TyttoSoft\Unit1.pas</Transaction>
+    <Transaction>2016/09/15 18:55:18.000.409,=C:\TyttoSoft\Unit1.pas</Transaction>
+    <Transaction>2016/09/21 15:56:31.441,=C:\TyttoSoft\Unit1.pas</Transaction>
+    <Transaction>2016/09/21 15:56:53.941,C:\teste\calculadora\Unit1.pas=C:\TyttoSoft\Unit1.pas</Transaction>
+    <Transaction>2016/09/21 15:56:53.941,C:\teste\calculadora\Unit1.dfm=C:\TyttoSoft\Unit1.dfm</Transaction>
+    <Transaction>2016/09/21 15:57:15.129,C:\teste\calculadora\calc.dproj=C:\TyttoSoft\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
