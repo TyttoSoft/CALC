@@ -401,7 +401,7 @@ object Form1: TForm1
         Height = 50
         Cursor = crHandPoint
         Align = alBottom
-        Caption = '%'
+        Caption = '/'
         Font.Charset = DEFAULT_CHARSET
         Font.Color = clGreen
         Font.Height = -21
